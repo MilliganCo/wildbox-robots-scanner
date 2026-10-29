@@ -1,5 +1,7 @@
 # Wildbox Robots Scanner
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Исследовательский Python-скрипт для инвентаризации поддоменов и проверки доступности `robots.txt`.
 
 ## Статус аудита
